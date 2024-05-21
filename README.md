@@ -3,4 +3,4 @@ My Portfolio Website Deployed in Amazon Web Services Using Terraform Leveraging 
 
 My Website Link: [Dhayala.com](https://Dhayala.com/)
 
-![Dhayala's Portfolio Architecture.](/images/Portfolio Architecture.png)
+![Dhayala's Portfolio Architecture.](/Images/Portfolio Architecture.png)
